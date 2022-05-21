@@ -1,0 +1,6 @@
+Hello! I think I spent approximately 5 hours on this homework.
+I wrote some lines of code that are meant to capture Rad and DePace's phone numbers, but they don't appear to be working and I don't know why.
+The regex seems to capture them correctly when I test it out on the htm files, but they come up as false negatives.
+When tested on my computer, my script gets an F1 score of 0.95.
+
+EDIT: got some help from Robin and fixed the DePace phone number! F1 is slightly improved.
